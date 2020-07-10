@@ -5,7 +5,7 @@ Read more on the previous project on this [link](https://bit.ly/winner-swimmer?f
 
 ## <font color='navy'>Summary of Findings for this Study</font>
 
-> Upon performing the additional Machine Learning Methods below, the group was able to improve upon the initial accuracy of 88% to **99.94%** using the **Non-Linear Support Vector Machine Classifier with the Radial Basis Function (rbf) kernel with <span>&Gamma</span> = 20.0**. Amongst the 8 other features, sitting hours proved to be the best variable when it came to predicting alterations in male fertility, for one is subjected to an increase in the risk of having *Oligospermia* or low sperm production due to the increased temperature of the scrotum when sitting for long periods. Another highlight of the study finds that frequent alcohol intake ranks second as it temporarily reduces sperm count and testosterone levels. 
+> Upon performing the additional Machine Learning Methods below, the group was able to improve upon the initial accuracy of 88% to **99.94%** using the **Non-Linear Support Vector Machine Classifier with the Radial Basis Function (rbf) kernel with gamma = 20.0**. Amongst the 8 other features, sitting hours proved to be the best variable when it came to predicting alterations in male fertility, for one is subjected to an increase in the risk of having *Oligospermia* or low sperm production due to the increased temperature of the scrotum when sitting for long periods. Another highlight of the study finds that frequent alcohol intake ranks second as it temporarily reduces sperm count and testosterone levels. 
 
 <center>
     <h4>Model Results Summary</h4>
