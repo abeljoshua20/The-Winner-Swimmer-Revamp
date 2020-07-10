@@ -23,9 +23,9 @@ Read more on the previous project on this [link](https://bit.ly/winner-swimmer?f
 
 Authors:
 
-Abel Joshua Cruzada
-Fiona Marie Bautista
-Lennart Panton
-John Christopher Tambago
-Alphonso Nico Aguila
-Daniel Rey Cimafranca
+    Abel Joshua Cruzada
+    Fiona Marie Bautista
+    Lennart Panton
+    John Christopher Tambago
+    Alphonso Nico Aguila
+    Daniel Rey Cimafranca
