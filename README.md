@@ -29,3 +29,4 @@ Authors:
     Abel Joshua Cruzada
     Lennart Panton
     John Christopher Tambago
+To simulate different classifier models [Auto_BeLMS](https://github.com/abeljoshua20/Auto_BeLMS.git) was used.
